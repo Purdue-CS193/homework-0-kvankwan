@@ -1,4 +1,4 @@
-#Karan Vankwani's First CS193 Homework
+# Karan Vankwani's First CS193 Homework
 
 #things I like about CS193
 - the tutors are really helpful
@@ -6,6 +6,4 @@
 - its only 50 mins long
 - it teaches you some extra stuff that would help[ us in our cs career.
   
-
-**Bold** and _Italic_ and `Code` text
 
